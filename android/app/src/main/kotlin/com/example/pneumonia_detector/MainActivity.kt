@@ -1,4 +1,4 @@
-package com.example.pneumonia_detector
+package com.sixteenbrains.pneumonia_detector
 
 import io.flutter.embedding.android.FlutterActivity
 
