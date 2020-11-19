@@ -114,18 +114,6 @@ class _HomePageState extends State<HomePage> {
           Text('Condition : $_name'),
           SizedBox(height: 20.0),
           Text('Confidence : $_confidence'),
-          // FlatButton(
-          //   onPressed: () {
-          //     // detectImage();
-          //   },
-          //   child: Text(
-          //     'Detect',
-          //     style: TextStyle(
-          //       fontSize: 20,
-          //       color: Colors.teal,
-          //     ),
-          //   ),
-          // )
         ],
       ),
     );
