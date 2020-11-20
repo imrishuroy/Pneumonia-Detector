@@ -1,3 +1,2 @@
-0 Pneumonia
-1 No Pneumonia
-2 Other Image
+0 NORMAL
+1 PNEUMONIA
